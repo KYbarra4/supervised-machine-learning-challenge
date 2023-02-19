@@ -2,10 +2,6 @@
 
 ## Retrieve the Data
 
-The data is located in the Challenge Files Folder:
-
-* `lending_data.csv`
-
 Import the data using Pandas. Display the resulting dataframe to confirm the import was successful.
 
 ![lending1](https://user-images.githubusercontent.com/113717031/219908073-c4da699c-54b8-4fde-8243-b9572e9bd880.png)
